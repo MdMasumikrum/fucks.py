@@ -1,0 +1,2 @@
+# fucks.py
+Free script 
